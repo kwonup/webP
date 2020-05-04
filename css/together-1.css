@@ -1,0 +1,21 @@
+header{
+  background-color:#666666;
+  text-align: center;
+}
+nav{
+   font-size:150%;
+   font-family:Arial;
+   text-align: center;
+ }
+h1{
+  color:white;
+  text-align: center;
+}
+h2{
+  color:#666666;
+  background-color :#00B7EA;
+}
+details :not(summary)  {
+   font-style:italic;
+}
+footer{  background-color :#666666;}
